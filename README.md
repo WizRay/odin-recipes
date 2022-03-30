@@ -1,2 +1,2 @@
 # odin-recipes
-First attempt in web_dev
+A website that showcases some of my favourite recipes
