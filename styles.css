@@ -1,0 +1,60 @@
+#header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: lighter;
+}
+img {
+    height: auto;
+    width: 400px;
+}    
+
+.chicken-curry {
+    background-color: rgb(161, 48, 48);
+    color: bisque;
+}
+
+.pulao {
+    background-color: rgb(236, 236, 82);
+    color: rgb(94, 37, 146);
+}
+
+.raita {
+    background-color: beige;
+    color: rgb(41, 97, 78);
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:justify;
+    font-size: 25px;
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    font-size: 15px;
+}
+
+ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    font-size: 15px;
+}
+
+ol {
+    font-family:Georgia, 'Times New Roman', Times, serif
+    text-align: justify;
+    font-size: 15px;
+    
+}
